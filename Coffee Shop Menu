@@ -1,0 +1,24 @@
+***************************************
+My Coffee and Muffin Shop
+Number of coffees bought?
+1
+Number of muffins bought?
+2
+Number of cake pops bought?
+2
+Number of banana breads bought?
+3
+***************************************
+
+***************************************
+My Coffee and Muffin Shop Receipt
+1 Coffee at $5 each: $ 5.00
+2 Muffins at $4 each: $ 8.00
+2 Cake Pops at $2 each: $ 4.00
+3 Banana Breads at $3 each: $ 9.00
+6% tax: $ 1.56
+---------
+Total: $ 27.56
+***************************************
+In[1]: print('Thank you for shopping at My Coffee and Muffin Shop!')
+In[2]: print('Coupon for two Banana Breads')
